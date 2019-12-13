@@ -6,6 +6,6 @@ public class Git {
         System.out.println("args = " + args);
         System.out.println("args = " + args);
         System.out.println("args = " + args);
-        System.out.println("args = " + args);
+//        System.out.println("args = " + args);
     }
 }
